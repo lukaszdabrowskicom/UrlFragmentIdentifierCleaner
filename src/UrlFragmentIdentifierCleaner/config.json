@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "UrlFragmentIdentifierCleaner"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-UrlFragmentIdentifierCleaner-630e6e40-d160-4f66-82c6-7da524df56e9;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

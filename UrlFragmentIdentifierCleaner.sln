@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AAE6450C-4882-4094-9EB7-D3FBDB87B5C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5CCB08B8-8026-4FE1-A284-3335161C7661}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "UrlFragmentIdentifierCleaner", "src\UrlFragmentIdentifierCleaner\UrlFragmentIdentifierCleaner.xproj", "{A1E9726E-9A75-4A96-93B7-4C7FA3DD4F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E9726E-9A75-4A96-93B7-4C7FA3DD4F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E9726E-9A75-4A96-93B7-4C7FA3DD4F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E9726E-9A75-4A96-93B7-4C7FA3DD4F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E9726E-9A75-4A96-93B7-4C7FA3DD4F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1E9726E-9A75-4A96-93B7-4C7FA3DD4F1C} = {AAE6450C-4882-4094-9EB7-D3FBDB87B5C9}
+	EndGlobalSection
+EndGlobal
