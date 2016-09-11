@@ -1,4 +1,4 @@
-# Dabrowski Software Development [ JavaScript ] 
+# Dabrowski Software Development [ ASP .NET MVC ] 
 # UrlFragmentIdentifierCleaner (examplary app)
 
 - DESCRIPTION:
